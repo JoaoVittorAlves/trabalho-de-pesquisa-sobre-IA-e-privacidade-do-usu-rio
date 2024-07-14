@@ -1,0 +1,1 @@
+Trabalho de pesquisa aplicada a computação, com o intuito de avaliar a impressão dos alunos do Centro de Informática da UFPB sobre a relação entre `a Inteligência Artificial e a privacidade de dados do usuário.
